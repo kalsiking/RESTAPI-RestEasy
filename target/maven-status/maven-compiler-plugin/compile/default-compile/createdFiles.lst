@@ -1,0 +1,6 @@
+com\journaldev\jaxrs\service\EmployeeServiceImpl.class
+com\journaldev\jaxrs\model\GenericResponse.class
+com\journaldev\jaxrs\service\EmployeeService.class
+com\journaldev\jaxrs\model\Employee.class
+com\journaldev\jaxrs\resteasy\app\EmployeeApplication.class
+com\journaldev\jaxrs\resteasy\client\RestEasyTestClient.class
